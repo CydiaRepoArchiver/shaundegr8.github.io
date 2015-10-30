@@ -1,9 +1,9 @@
 Package: com.shaundegr8.livewallpaperpack1
 Name: LiveWallpaperPack1
-Depends: 
-Version: 0.1-beta
+Depends:
+Version: 0.2-beta
 Architecture: iphoneos-arm
-Description: REBOOT AFTER THE INSTALLATION IS COMPLETE PLEASE! Live Wallpapers for iPhone 6s and below! Sorry but no support for iPhone 6+ YET
+Description: REBOOT AFTER THE INSTALLATION IS COMPLETE PLEASE! Live Wallpapers for iPhone 6s and below! Sorry but no support for iPhone 6+ YET. ChangeLog: 0.2-beta contains a new green wallpaper along with a removal of the orange one, the orange on seemed to be broken and will be fixed in later updates :D
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper
