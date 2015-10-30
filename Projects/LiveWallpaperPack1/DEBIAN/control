@@ -1,9 +1,0 @@
-Package: com.shaundegr8.LiveWallpaperPack1
-Name: LiveWallpaperPack1
-Depends: LiveWallEnabler
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A pack of live wallpapers for the iPhone 6 and 6s, not tested on 6+! Adds Live Wallpapers with a "reversal" effect...
-Maintainer: shaundegr8 <shaundegr8@gmail.com>
-Author: shaundegr8 <shaundegr8@gmail.com>
-Section: Wallpaper
