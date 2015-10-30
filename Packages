@@ -1,14 +1,14 @@
 Package: com.shaundegr8.livewallpaperpack1
-Version: 0.0.3-beta
+Version: 0.1-beta
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
-Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.0.3-beta_iphoneos-arm.deb
-Size: 3849276
-MD5sum: 21740b376802a9b28017e97c59b00bad
-SHA1: bec8aff5857636957cbc86c398a28d938c94c949
-SHA256: b5a68b2e46a1c846e632e1aca1f8c540959e5565cf45a5539940e87d3beba66c
+Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.1-beta_iphoneos-arm.deb
+Size: 7039432
+MD5sum: 2fb7b7930dd19b6d9fb2e7d1a11d2ba3
+SHA1: 589913d34901932e9e8df536f950e266b2ad41b0
+SHA256: 9c374446f81b2c9c1cd6b34e810b76896b48a5acba688383178251fb761fd29f
 Section: Wallpaper
-Description: Live Wallpapers for iPhone 6 and 6s
+Description: REBOOT AFTER THE INSTALLATION IS COMPLETE PLEASE! Live Wallpapers for iPhone 6s and below! Sorry but no support for iPhone 6+ YET
 Author: shaundegr8 <shaundegr8@gmail.com>
 Name: LiveWallpaperPack1
 
