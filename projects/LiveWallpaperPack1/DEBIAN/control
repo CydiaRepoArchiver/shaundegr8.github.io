@@ -1,7 +1,7 @@
 Package: com.shaundegr8.livewallpaperpack1
 Name: LiveWallpaperPack1
-Depends: LiveWallEnabler
-Version: 0.0.2-beta
+Depends: 
+Version: 0.0.3-beta
 Architecture: iphoneos-arm
 Description: Live Wallpapers for iPhone 6 and 6s
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
