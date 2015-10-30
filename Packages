@@ -5,9 +5,9 @@ Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Depends: LiveWallEnabler
 Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.0.2-beta_iphoneos-arm.deb
 Size: 3849278
-MD5sum: 088daa130b1512293eea861cd909445d
-SHA1: 80db0a53b48a571fa1a03570b11a5f0b665cc1a9
-SHA256: be3fd5bf9e84ea4b31c2b1b8fd2f9473862a0928cdc09e4ef65136b19bbf57cb
+MD5sum: 95603cb9700b388713c6441ec160188a
+SHA1: cf1c3900f71ca929a1516ece3039a480a9a8d24a
+SHA256: ef36a6cc566cc7cd5be87ffb08d5e1195f0e6b7c425d8aadc9040e80a7422287
 Section: Wallpaper
 Description: Live Wallpapers for iPhone 6 and 6s
 Author: shaundegr8 <shaundegr8@gmail.com>
