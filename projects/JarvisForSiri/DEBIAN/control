@@ -1,0 +1,9 @@
+Package: com.shaundegr8.jarvisforsiri
+Name: JarvisForSiri
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change Siri start up sounds into J.A.R.V.I.S! Change to Male UK Siri for best effect! 
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Author: shaundegr8 <shaundegr8@gmail.com>
+Section: Themes (UISounds)
