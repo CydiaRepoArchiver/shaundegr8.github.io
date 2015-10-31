@@ -1,14 +1,15 @@
 Package: com.shaundegr8.livewallpaperpack1
-Version: 0.3-beta
+Version: 0.4-beta
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
-Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.3-beta_iphoneos-arm.deb
-Size: 11967558
-MD5sum: 45abbcc37aa1ce19722a021f73953f42
-SHA1: b8ccf00aa811cabffe3dce2c476a51f682304c6d
-SHA256: 9197ffcdeba01311bbcf730f1877e473e02ffcbb465f460dba81c7622a9a1d20
+Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.4-beta_iphoneos-arm.deb
+Size: 20012752
+MD5sum: 59728c0a71c9974c3de670e2e8ea7d62
+SHA1: e5fa3d0ef4e99e0313c39d9f97fbdc73b65bcd0f
+SHA256: fb0081385700c0d3f48dac5831b9ba75c51b2152dbc482a8d5cc630f6cba6853
 Section: Wallpaper
-Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! Changlog: Added Orange Droplet wallpaper
+Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!
 Author: shaundegr8 <shaundegr8@gmail.com>
+Changelog: Added MultiColor Ink Wallpaper
 Name: LiveWallpaperPack1
 
