@@ -1,0 +1,9 @@
+Package: com.shaundegr8.OriginalSiriSounds
+Name: OriginalSiriSounds
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The Original Sounds for Siri! You need to install this after the removal of JarvisForSiri!
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Author: shaundegr8 <shaundegr8@gmail.com>
+Section: Themes (UISounds)

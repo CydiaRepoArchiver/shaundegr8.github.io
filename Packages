@@ -1,12 +1,26 @@
+Package: com.shaundegr8.OriginalSiriSounds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Filename: ./debs/com.shaundegr8.originalsirisounds_1.0_iphoneos-arm.deb
+Size: 93864
+MD5sum: e5022a3c4a9579f79422fbf26ac34e3d
+SHA1: a19c99db15323cc352a2d2a5363872be227d3b50
+SHA256: c949673a55564db19f0eda4e79c8c3c2a0489f809160f7945353d95b36fe4d06
+Section: Themes (UISounds)
+Description: The Original Sounds for Siri! You need to install this after the removal of JarvisForSiri!
+Author: shaundegr8 <shaundegr8@gmail.com>
+Name: OriginalSiriSounds
+
 Package: com.shaundegr8.jarvisforsiri
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.jarvisforsiri_1.0_iphoneos-arm.deb
 Size: 1350482
-MD5sum: bc0c60c26c52d160ca896cd4aa07cf66
-SHA1: bdbbd6cf52e7949be506927fff73f2543b89e59d
-SHA256: b313e31778a1728e256f79e717b0d6640b3c32ff7a8e65a1ee757ff0379a540d
+MD5sum: 7e0330e741aa121ad7afd1332af94587
+SHA1: 8d6c7a8ef39053604ce8c35c9290d7e4337ef47c
+SHA256: 69a2de3e5dc33e0aa65d8a5cc024ed28eaf988a8cdf03d0638a50acad2b862e0
 Section: Themes (UISounds)
 Description: Change Siri start up sounds into J.A.R.V.I.S! Change to Male UK Siri for best effect!
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -18,9 +32,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.5-beta_iphoneos-arm.deb
 Size: 19948358
-MD5sum: 5cafabc346f3ed7835b3db9221693fda
-SHA1: 3b8c65f1dfbb89161e91814fbbad01d7a646d7af
-SHA256: d285c2557cba3b566c73da35d5a2a5eb3b7d9756d249381cc2532bfc3db21d5e
+MD5sum: 10be48a10a2ed6651a8c689688632bb0
+SHA1: 1bebd37787717388c6d4634020e3d65dbda5ecc4
+SHA256: 7b495914b201835e5456bcf34f48f2753dda501fee707cbdd23a41f2c0030a8b
 Section: Wallpaper
 Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!        Changelog: Fixed Black Screen at end of Green Drop wallpaper :D
 Author: shaundegr8 <shaundegr8@gmail.com>
