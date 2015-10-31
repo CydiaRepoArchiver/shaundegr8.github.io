@@ -1,15 +1,14 @@
 Package: com.shaundegr8.livewallpaperpack1
-Version: 0.4-beta
+Version: 0.5-beta
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
-Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.4-beta_iphoneos-arm.deb
-Size: 20012752
-MD5sum: 59728c0a71c9974c3de670e2e8ea7d62
-SHA1: e5fa3d0ef4e99e0313c39d9f97fbdc73b65bcd0f
-SHA256: fb0081385700c0d3f48dac5831b9ba75c51b2152dbc482a8d5cc630f6cba6853
+Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.5-beta_iphoneos-arm.deb
+Size: 19948358
+MD5sum: 343cd9ef5178e6ae01704a3508752a49
+SHA1: 5fa95aad8a023420fa9abf2fb88264cb2e635272
+SHA256: 868b0afe3fcf0dc2632c2f27e2569834a3292e7cdfc09cdd167f5f280c958e0d
 Section: Wallpaper
-Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!
+Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!        Changelog: Fixed Black Screen at end of Green Drop wallpaper :D
 Author: shaundegr8 <shaundegr8@gmail.com>
-Changelog: Added MultiColor Ink Wallpaper
 Name: LiveWallpaperPack1
 
