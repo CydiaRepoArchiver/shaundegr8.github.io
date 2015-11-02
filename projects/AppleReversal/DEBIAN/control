@@ -1,9 +1,9 @@
 Package: com.shaundegr8.applereversal
 Name: AppleReversal
 Depends:
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
-Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below! Currently only done with the fish! Enjoy! WILL OVERRIDE DEFAULT APPLE WALLPAPERS!!! ChangeLog: Added White Ink WallPaper
+Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below! Currently only done with the fish! Enjoy! WILL OVERRIDE DEFAULT APPLE WALLPAPERS!!! ChangeLog: No longer over rides originals and fixed install errors :D
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper
