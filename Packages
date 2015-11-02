@@ -1,16 +1,44 @@
+Package: com.apple.appledefault6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Filename: ./debs/com.apple.appledefault6_1.0_iphoneos-arm.deb
+Size: 59158684
+MD5sum: ddf89adccd837efcc43d2abdbbe8f6a3
+SHA1: a3b6c40181ef8385bf53132cc1b7d59dee09aa85
+SHA256: 67dd1af0f591e087627c7d92284a8532cf024118afaf5b4d86b7a00f7efbfe7d
+Section: Wallpaper
+Description: Apple Live Wallpapers for the 6 and below! WILL OVERRIDE AppleReversal wallpapers!
+Author: shaundegr8 <shaundegr8@gmail.com>
+Name: AppleDefault6
+
 Package: com.shaundegr8.OriginalSiriSounds
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.originalsirisounds_1.0_iphoneos-arm.deb
 Size: 93864
-MD5sum: fb2de816aa22b7fc1b86d82f342731bc
-SHA1: b53baf4ca7e4ed4e0b7634b604093e9e086693f8
-SHA256: cf1e8fc1675922fcd127a58c44996cf48c370e15160614ecbd1132f8ba00d6b1
+MD5sum: d0f0e953a60a4f133397b89a40fbe003
+SHA1: 7179750c89d96cef2b5631dfa35057b056f72308
+SHA256: 398072cb45bbb2268872e7428d5637deb3e10cb02a2c99e964a3ac9204207e77
 Section: Themes (UISounds)
 Description: The Original Sounds for Siri! You need to install this after the removal of JarvisForSiri!
 Author: shaundegr8 <shaundegr8@gmail.com>
 Name: OriginalSiriSounds
+
+Package: com.shaundegr8.applereversal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Filename: ./debs/com.shaundegr8.applereversal_1.0_iphoneos-arm.deb
+Size: 72244244
+MD5sum: b3ca1f4714e146a6c12486dcda5c6be3
+SHA1: 14d248132007136f3e94a0e01eeec50745fb8e39
+SHA256: 9a43d13f98c8bc6664121378534710bd6c21ac3801e5a167634466b47691a74e
+Section: Wallpaper
+Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below! Currently only done with the fish! Enjoy! WILL OVERRIDE DEFAULT APPLE WALLPAPERS!!!
+Author: shaundegr8 <shaundegr8@gmail.com>
+Name: AppleReversal
 
 Package: com.shaundegr8.gotham8
 Version: 1.0
@@ -19,9 +47,9 @@ Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Depends: winterBoard
 Filename: ./debs/com.shaundegr8.gotham8_1.0_iphoneos-arm.deb
 Size: 15540700
-MD5sum: 2baed2f927cfb5502105aadb2a71ddec
-SHA1: 0593807bf3823f97430d88566da45c402371f218
-SHA256: 4540aba2fc9c89cb9ae10668f02742fb7100c51f6912b845207335843d5a4977
+MD5sum: 1287a0d1e6bd7ca8bed07670fd0cc491
+SHA1: 7058ceb52c2c13fe07479622316fd93beac8fb4d
+SHA256: d42d974dd2a73c11b0172aa9f8e54ee5914e10697314d62c2aedbbaeb926934e
 Section: Themes (SpringBoard)
 Description: Revamped Gotham theme w/ custom icons by me! Original theme by Winneon! Works on iOS 8 and below! NOT tested on iOS 9
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -33,9 +61,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.jarvisforsiri_1.0_iphoneos-arm.deb
 Size: 1350482
-MD5sum: e357ef31e6bfc806f395ee7b01298c95
-SHA1: 141b50a0f350564db8ba2fc36b4eebaf1cd1ab85
-SHA256: 0ebec7857b6999dabe821cab67eab3a227bb3f913acdae8e44dfccf348669bd8
+MD5sum: aed21a99345d21fe75bd695af7ba08bd
+SHA1: 548603df15e68f4888f18a663934f40b30aa48a3
+SHA256: d8c8e4e813372019ecd33d62ed1c8aac4f6112f61fe141f2af582c07b1a6c45b
 Section: Themes (UISounds)
 Description: Change Siri start up sounds into J.A.R.V.I.S! Change to Male UK Siri for best effect!
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -47,9 +75,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.5-beta_iphoneos-arm.deb
 Size: 19948358
-MD5sum: 6aeb7a23791bba989c9829a55fecc9c6
-SHA1: c870c29901bf06fd78ac6aa9028d3650505297a5
-SHA256: 2a5ef72024de52169c8dd1632bd19772366b06b525f979ca859d0801e7fe6950
+MD5sum: 670b5e7b6d5af07b181e5a1720c733ee
+SHA1: 0493e800663abcc765e3b28d65ccdd38f79d2bc8
+SHA256: 0c82ee0f75eb209751782380e36ee4e9c2eca51ec2d0106c91470096f39d97f9
 Section: Wallpaper
 Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!        Changelog: Fixed Black Screen at end of Green Drop wallpaper :D
 Author: shaundegr8 <shaundegr8@gmail.com>
