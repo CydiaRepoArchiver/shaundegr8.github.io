@@ -1,9 +1,9 @@
 Package: com.shaundegr8.gotham8
 Name: Gotham8
-Depends: winterBoard
-Version: 1.0
+Depends:
+Version: 2.0
 Architecture: iphoneos-arm
-Description: Revamped Gotham theme w/ custom icons by me! Original theme by Winneon! Works on iOS 8 and below! NOT tested on iOS 9 
+Description: Revamped Gotham theme w/ custom icons by me! Original theme by Winneon! Works on iOS 9 and below! Works with Anemone! Still need to add some more icons for some new iOS 9 icons.
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Themes (SpringBoard)
