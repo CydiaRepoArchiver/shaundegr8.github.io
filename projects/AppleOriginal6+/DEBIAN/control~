@@ -1,0 +1,10 @@
+Package: com.apple.appleoriginal6+
+Name: AppleOriginal6+
+Version: 1.0
+Section: Wallpaper
+Depends: 
+Architecture: iphoneos-arm
+Description: Default Apple iPhone 6s+ Live Wallpapers! ONLY FOR THOSE WITHOUT THEM!
+Author: shaundegr8 <shaundegr8@gmail.com>
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+
