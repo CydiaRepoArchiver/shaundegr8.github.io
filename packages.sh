@@ -7,5 +7,7 @@ dpkg-deb -bZgzip projects/AppleReversal debs
 dpkg-deb -bZgzip projects/AppleDefault6 debs
 dpkg-deb -bZgzip projects/AppleOriginal6+ debs
 dpkg-deb -bZgzip projects/AppleReversal2 debs
+dpkg-deb -bZgzip projects/AppleReversal6+ debs
+dpkg-deb -bZgzip projects/AppleReversal6+Part2 debs
 
 # dpkg-deb -bZgzip projects/<Project Name> <Output Folder>
