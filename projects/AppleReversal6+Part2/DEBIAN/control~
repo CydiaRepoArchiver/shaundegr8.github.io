@@ -1,9 +1,9 @@
-Package: com.shaundegr8.applereversal6+
-Name: AppleReversal6+
+Package: com.shaundegr8.applereversal6+part2
+Name: AppleReversal6+ Part 2
 Depends:
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Apple Live Wallpapers with the Reversal effect for iPhone 6+! This package contains the ink! AppleReversal6+ Part 2 contains the fish! They were too large altogether to be pushed in one package :) 
+Description: Apple Live Wallpapers with the Reversal effect for iPhone 6+! This package contains the fish! AppleReversal6+ Part 1 contains the ink! They were too large altogether to be pushed in one package :) 
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper

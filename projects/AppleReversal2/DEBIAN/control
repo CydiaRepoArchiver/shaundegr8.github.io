@@ -3,7 +3,8 @@ Name: AppleReversal2
 Depends:
 Version: 2.0
 Architecture: iphoneos-arm
-Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below! This package contains the ink! AppleReversal contains the fish! They were too large altogether to be pushed in on package :) CHANGELOG: Updated to fix wallpapers not animating!
+Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below!
+Depiction: http://shaundegr8.github.io/depic/com.shaundegr8.applereversal2/info.html
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper
