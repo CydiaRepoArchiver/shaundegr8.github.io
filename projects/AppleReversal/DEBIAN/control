@@ -4,6 +4,8 @@ Depends:
 Version: 2.2
 Architecture: iphoneos-arm
 Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below!
+Depiction: http://shaundegr8.github.io/depictions?dep=com.shaundegr8.applereversal
+Homepage: http://shaundegr8.github.io
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper
