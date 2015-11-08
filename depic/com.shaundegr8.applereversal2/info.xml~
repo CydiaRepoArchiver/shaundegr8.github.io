@@ -1,36 +1,35 @@
 <package>
 	<id>com.shaundegr8.applereversal</id>
-	<name>Full Package</name>
-	<version>1.6</version>
+	<name>Apple Reversal 2</name>
+	<version>2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		
+		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Live Wallpapers for iPhone 6s and below! </description>
-		<description>These wallpapers are the default Apple Wallpapers with a reversal effect! This pack contains the fish while the second one contains the ink!</description>
+		<description>This package contains default Apple Live Wallpapers with a reverse effect!</description>
+		<description>Hold down till the end for full effect! Also this package contains the ink while AppleReversal contains the fish!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
+			<description>Scroll to the bottom to see it!</description>
+			<image>APPLREV1.PNG</image>
+		</screenshot>		
 			
-		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Added Fish wallpapers and fixed lag!</change>
+		<change>Second release</change>
+		<change>Updated with all ink!</change>
+		<change>fixed black screen at the end of blue ink!</change>
 	</changelog>
 	<links>
 		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/shaundegr8</url>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
 		</link>
-		
-		<link>
-			<name>Twitter</name>
-			<url>https://twitter.com/shaundegr82</url>
-		
 	</links>
 </package>

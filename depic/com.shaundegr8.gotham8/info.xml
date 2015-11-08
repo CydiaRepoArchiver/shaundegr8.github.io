@@ -1,0 +1,34 @@
+<package>
+	<id>com.shaundegr8.gotham8</id>
+	<name>Gotham 8</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>IconBundles</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A minimalist theme designed by a minimalist for minimalists</description>
+		<description>This theme was originally designed by WinnenonSword but support was dropped... As an effort to keep this theme alive the community at /r/iOSThemes now manages it, there are many copies floating around though this one in my current knowledge holds the most icons! A good amount were designed by me!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>A measly look at the expanding number of icons</description>
+			<image>Gotham8.PNG</image>
+
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iOSThemes</url>
+		</link>
+	</links>
+</package>
