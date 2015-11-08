@@ -3,7 +3,8 @@ Name: Gotham8
 Depends:
 Version: 2.0
 Architecture: iphoneos-arm
-Description: Revamped Gotham theme w/ custom icons by me! Original theme by Winneon! Works on iOS 9 and below! Works with Anemone! Still need to add some more icons for some new iOS 9 icons.
+Description: Revamped Gotham theme w/ custom icons by me!
+Depiction: http://shaundegr8.github.io/depic/?p=com.shaundegr8.gotham8
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Themes (SpringBoard)
