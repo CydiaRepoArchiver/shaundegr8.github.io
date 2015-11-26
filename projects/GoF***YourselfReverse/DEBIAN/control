@@ -4,7 +4,8 @@ Depends:
 Version: 1.0
 Architecture: iphoneos-arm
 Description: A live wallpaper for iPhone 6 Plus and 6s Plus Users!
-Depicton:http://shaundegr8.github.io/depic/?p=com.shaundegr8.gofyourself2
+Depicton: http://shaundegr8.github.io/depic/?p=com.shaundegr8.gofyourself2
+Homepage: http://shaundegr8.github.io
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper

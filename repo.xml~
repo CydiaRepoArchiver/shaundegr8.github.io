@@ -1,6 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Donations to me here!</name>
+			<url>https://paypal.me/shaundegr8</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+
+		<link>
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/shaundegr82</url>
 			<iconclass>glyphicon glyphicon-user</iconclass>
