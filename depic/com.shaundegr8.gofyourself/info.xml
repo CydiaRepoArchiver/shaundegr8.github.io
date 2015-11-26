@@ -1,6 +1,6 @@
 <package>
 	<id>com.shaundegr8.gofyourself</id>
-	<name>GoF***Yourself</name>
+	<name>GoFYourself</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -16,6 +16,7 @@
 		<description>Special thanks to /u/derduc for the video and request! And for the donation! :D</description>
 	</descriptionlist>
 	<screenshots>
+
 	</screenshots>
 	<changelog>
 		<change>Fixed weird color problems!</change>

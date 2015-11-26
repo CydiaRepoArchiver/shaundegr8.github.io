@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.1</version>
+		<change>Fixed Color changing after pressing on screen!</change>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>

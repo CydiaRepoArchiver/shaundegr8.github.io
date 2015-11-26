@@ -1,6 +1,6 @@
 <package>
 	<id>com.shaundegr8.gofyourself2</id>
-	<name>GoF***Yourself</name>
+	<name>GoFYourself Reverse</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This package contains a Live Wallpaper for the iPhone 6+ and 6s+</description>
+		<description>This package contains a Live Wallpaper for the iPhone 6+ and 6s+ <b>This Package has a reverse animation added by yours truly! This is not need for the 6s+ but if you'd like go ahead and install it</b></description>
 		<description>Hint: It tells you to (refer to title)</description>
 		<description>Special thanks to /u/derduc for the video and request! And for the donation! :D</description>
 	</descriptionlist>
