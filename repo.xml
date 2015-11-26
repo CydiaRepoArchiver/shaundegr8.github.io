@@ -3,7 +3,7 @@
 		<link>
 			<name>Donations to me here!</name>
 			<url>https://paypal.me/shaundegr8</url>
-			<iconclass>glyphicon glyphicon-money</iconclass>
+			<iconclass>glyphicon glyphicon-euro</iconclass>
 		</link>
 
 		<link>
@@ -15,7 +15,7 @@
 		<link>
 			<name>Contact me on Reddit</name>
 			<url>https://reddit.com/user/shaundegr8</url>
-			<iconclass>glyphicon glyphicon-user</iconclass>
+			<iconclass>glyphicon glyphicon-envelope</iconclass>
 		</link>
 
 	</footerlinks>

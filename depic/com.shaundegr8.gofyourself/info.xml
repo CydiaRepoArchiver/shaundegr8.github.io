@@ -15,9 +15,11 @@
 		<description>Hint: It tells you to (refer to title)</description>
 		<description>Special thanks to /u/derduc for the video and request! And for the donation! :D</description>
 	</descriptionlist>
-
+	<screenshots>
+	</screenshots>
 	<changelog>
 		<change>Fixed weird color problems!</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>

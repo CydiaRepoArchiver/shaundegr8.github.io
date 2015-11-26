@@ -1,0 +1,11 @@
+Package: com.shaundegr8.applereversal6+part2
+Name: AppleReversal6+ Part 2
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Live Wallpapers with the Reversal effect for iPhone 6+!
+Depiction: http://shaundegr8.github.io/depic/?p=com.shaundegr8.applereversal6+part2
+Homepage: http://shaundegr8.github.io
+Maintainer: shaundegr8 <shaundegr8@gmail.com>
+Author: shaundegr8 <shaundegr8@gmail.com>
+Section: Wallpaper
