@@ -3,8 +3,9 @@ Name: AppleDefault6
 Depends:
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Apple Live Wallpapers for the 6 and below! ONLY FOR THOSE WHO DONT HAVE THEM
-Depiction: http://shaundegr8.github.io/depic
+Description: Apple Live Wallpapers for the 6 and below!
+Depiction: http://shaundegr8.github.io/depic/?p=com.apple.appledefault6
+Homepage: http://shaundegr8.github.io
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Author: shaundegr8 <shaundegr8@gmail.com>
 Section: Wallpaper
