@@ -1,11 +1,5 @@
 <changelog>
 	<changes>
-		<version>2.2</version>
-		<change>Second release</change>
-		<change>Updated with all fish!</change>
-		<change>fixed lag issues!</change>
-	</changes>
-	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
