@@ -1,6 +1,6 @@
 <package>
-	<id>com.apple.appleoriginal6</id>
-	<name>Apple Original 6</name>
+	<id>com.apple.appledefault6</id>
+	<name>Apple Default 6</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,6 +12,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description>This package contains default Apple Live Wallpapers compatible with iPhone 6 and <b>BELOW</b></description>
+		<description>Install this package only if you do not have the default live wallpapers or have lost them for some odd reason</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

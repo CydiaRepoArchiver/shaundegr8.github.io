@@ -13,7 +13,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description>This package is a replacement for the Siri "Beep" sounds <b>This does NOT replace ALL of Siri, This will also OVERWRITE your current Siri Sounds!</b></description>
-		<desctiption>
+		<description>To backup your current Siri sounds navigate to iFile then go to /System/Audio/UISounds and select all the sounds that begin with the prefix <b>"jbl"</b> and .ZIP them up with the little box at the bottom!</description>
 	</descriptionlist>
 	<screenshots>
 
