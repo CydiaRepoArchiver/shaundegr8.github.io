@@ -13,7 +13,7 @@
 	<descriptionlist>
 		<description>This package contains default Apple Live Wallpapers with a reverse effect!</description>
 		<description>Hold down till the end for full effect! Also this package contains the fish while AppleReversal2 contains the ink!</description>
-		<description> <div> <center> <img src="./screenshots/APPLEREV1.PNG" hieght="234" width="132"> </center> </div> </description>
+		<description> <imgurl>APPLEREV1.PNG</imgurl> <description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
