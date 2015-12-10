@@ -13,16 +13,17 @@
 	<descriptionlist>
 		<description>This package contains default Apple Live Wallpapers with a reverse effect!</description>
 		<description>Hold down till the end for full effect! Also this package contains the fish while AppleReversal2 contains the ink!</description>
+		<desctiption> <div> <center> <img src="./screenshots/APPLEREV1.PNG" hieght="234" width="132"
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Scroll to the bottom to see it!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>APPLREV1.PNG</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
