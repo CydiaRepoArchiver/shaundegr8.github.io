@@ -1,0 +1,33 @@
+<package>
+	<id>com.shaundegr8.OriginalSiriSounds</id>
+	<name>OriginalSiriSounds</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxOS>10.0</maxOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package is meant to replace the missing Siri files after deleting JarviOS or JarvisForSiri! <b> DO NOT INSTALL OTHERWISE</b> </description>
+	</descriptionlist>
+	<screenshots>
+
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Video Sample of All Sounds</name>
+			<url>https://www.youtube.com/watch?v=2aN6KM40uxE</url>
+		<link>
+				<name>/r/Jailbreak</name>
+				<url>http://www.reddit.com/r/jailbreak</url>
+		</link>
+		</link>
+	</links>
+</package>
