@@ -11,5 +11,6 @@ dpkg-deb -bZgzip projects/AppleReversal6 debs
 dpkg-deb -bZgzip projects/AppleReversal6Part2 debs
 dpkg-deb -bZgzip projects/GoFYourself debs
 dpkg-deb -bZgzip projects/GoFYourselfReverse debs
+dpkg-deb -bZgzip projects/JarviOS10 debs
 
 # dpkg-deb -bZgzip projects/<Project Name> <Output Folder>
