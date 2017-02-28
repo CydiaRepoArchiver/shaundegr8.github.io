@@ -1,0 +1,29 @@
+<package>
+	<id>com.jbhub.stevemach</id>
+	<name>Steve Jobs MachPortal Icon</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>IconBundles</package>
+		<package>Anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>An icon theme for the Mach_Portal jailbreak app for iPhone 7 devices!</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iOSThemes</url>
+		</link>
+	</links>
+</package>
