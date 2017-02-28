@@ -1,7 +1,7 @@
 Package: com.jbhub.stevemach
 Name: Steve Mach Portal Icon
 Depends:
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Steve Jobs for the Mach_Portal icon!
 Depiction: http://shaundegr8.github.io/depic/?p=com.jbhub.stevemach
