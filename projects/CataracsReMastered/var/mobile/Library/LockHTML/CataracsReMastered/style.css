@@ -1,0 +1,257 @@
+* {
+
+	margin: 0;
+
+	padding: 0;
+
+}
+
+
+
+body {
+
+	width: 420px;
+
+	text-align: center;
+
+	color: #000000;
+
+	font-family: "Geosans", -apple-system-font, sans-serif;
+
+}
+
+
+div.cap {
+    
+	position: absolute;top:153px;left:195px;
+
+	height: 8px;
+
+	width:32px;
+
+	border-radius: 3px 3px 0px 0px;
+
+	background-color: transparent;
+
+}
+
+/*div.batt{
+	
+	position: absolute;
+
+	background-color: red;
+
+	width: 124px;
+
+	left: 98px;
+
+	Opacity: 0.40;
+
+	bottom:542px;
+
+	z-index:-10;
+
+}
+
+*/div.batt{
+
+	position: absolute;
+
+	background-color: transparent;
+
+	width: 124px;
+
+	left: 50px;
+
+	opacity: 0.40;
+
+	height:168px;
+
+	top: 20px;
+
+	z-index:-10;
+
+}
+
+
+
+
+div.out {
+
+	position: absolute;
+
+	width: 160px;
+
+	left: 105px;
+
+	background-color: transparent;
+
+	top:160px;
+
+	height:162px;
+
+	overflow: hidden;
+
+	z-index:-10;
+
+}
+
+
+div.bg {
+
+	position: absolute;
+
+	background-repeat: no-repeat;
+
+	background-size: 420px auto;
+
+	background-image: url("/var/mobile/Library/SpringBoard/LockBackgroundThumbnail.jpg");
+
+	width: 100%;
+
+	height: 100%;
+
+	visibility: hidden;
+
+	z-index: -1;
+
+}
+
+
+
+img {
+
+	position: absolute;
+
+	top: 0;
+
+	left: 0;
+
+}
+
+
+
+div.content {
+
+	display: inline-block;
+
+}
+
+
+
+div.blur {
+
+	position: absolute;
+
+	width: 110px;
+
+	height: 164px;
+
+	border-radius: 7px;
+       
+	z-index: -100;
+
+}
+
+
+
+div.time {
+
+	font-size: 60px;
+
+	line-height: 60px;
+
+	border: 0px solid #000000;
+
+	border-radius: 7px;
+
+	width: 110px;
+
+	padding: 10px 0px 30px 0px;
+
+}
+
+
+
+div.shadow {
+
+	box-shadow: 4px 4px 16px black;
+	text-shadow: 8px 8px 12px black;
+
+}
+
+
+
+div.hours {
+
+	font-weight: 200;
+
+}
+
+div.mins {
+
+	font-weight: 200;
+
+}
+
+div.date {
+
+	display: none;
+
+	position: relative;
+
+	left: 0px;
+
+	bottom: 30px;
+
+	width: 105px;
+
+	font-size: 11px;
+
+	font-weight: 400;
+
+}
+div.percent {
+
+	bottom: 174px;
+
+	position: relative;
+
+	left: 2px;
+
+	display: none;
+
+	width: 120px;
+
+	font-size: 12px;
+
+	font-weight: 400;
+
+}
+
+
+@font-face {
+
+	font-family: "Geosans";
+
+	src: url("Geosanslight.ttf");
+
+	font-weight: normal;
+
+	font-style: normal;
+
+}
+
+
+
+@font-face {
+
+	font-family: "Geosans";
+
+	src: url("GeosansLight.ttf");
+
+	font-weight: 600;
+
+	font-style: normal;
+
+}
