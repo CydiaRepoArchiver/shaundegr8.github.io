@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.apple.appledefault6_1.0_iphoneos-arm.deb
 Size: 5581374
-MD5sum: e879c98cf3cf800602d04b361a037033
-SHA1: 4808eaa0434ce13a70620599be7f4ff3884aff35
-SHA256: d9301e5925775a943dfa8821348b4a12acdf2185ea57bfc315e953349202b8f4
+MD5sum: 7243f77eeed0f1f82d6afabdd8325f3b
+SHA1: 6b59a4f336ff1c6cf575f48cd5253c3ecfad95a2
+SHA256: ee4ee3963563ae893e7658df43551cbbcac1c4eae52d7a82c37c890b7cfb41db
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: Apple Live Wallpapers for the 6 and below!
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.apple.appleoriginal6+_1.0_iphoneos-arm.deb
 Size: 5581354
-MD5sum: 1a33c1c942c27d45b53800895a310782
-SHA1: 4678c17b5bf271806ef43b99b2f3ab4746eb9bed
-SHA256: d693f2284615f88045a55c8490245c2b338266d1e4f2b13284af680a01fc3455
+MD5sum: bfa4542e429acb4132f75b37f3760eca
+SHA1: f9c1a9b0af6c5095df1c1dfca5b815354d453825
+SHA256: b6f3f58f3b065a79d6a977b6609772e6f36237bd6d144b08cd2b62ecc9d3915b
 Section: Wallpaper
 Description: Default Apple iPhone 6s+ Live Wallpapers! ONLY FOR THOSE WITHOUT THEM!
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.jbhub.stevemach_1.1_iphoneos-arm.deb
 Size: 91846
-MD5sum: 1e7cc206fbf5d87f3bfd32274d44981a
-SHA1: 40d0494c3f9498ba5258aa88afc613bc3da6d03d
-SHA256: bc3ff941c732b2ee1707ff84d3ea9eba06155b1c44c4b3567f7fa9b1721abf49
+MD5sum: 2d5b1546fb19aa5811f7ab8fdfd51fda
+SHA1: 556597c475bb7b4c1c7def55ad5c258567bb7ed7
+SHA256: 6936ae333a29b8ed9f1c3be41a917fe615a0daf927f605ea4d42b8f738741be2
 Section: Themes
 Homepage: http://shaundegr8.github.io
 Description: Steve Jobs for the Mach_Portal icon!
@@ -50,9 +50,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.applereversal_2.2_iphoneos-arm.deb
 Size: 3253252
-MD5sum: f06db97c83425a656aad8cc530e0f625
-SHA1: 695ce661e1a2634b87bb4e809863608c67c6352e
-SHA256: db8aa265827ecff30a28295e889a5b52ad28d80ac8db3a0a76922fbd8a75c44e
+MD5sum: e00074d5dfbdfa7088a1891c89f50a9b
+SHA1: 463fc65ca2b9f993b67e00f572bac43545dbfc53
+SHA256: e6a7ed5f1368b63cf5e2f27462bfaab63d60f53822bb082674493ac71ca82aef
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below!
@@ -66,9 +66,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.applereversal2_2.0_iphoneos-arm.deb
 Size: 2329052
-MD5sum: 3c6b58bd2e4c27381776b5a888d68873
-SHA1: c23d7304bd28a33dcf014bf6ed2993a018a64560
-SHA256: 39e94ec0602cb6e9cd5030e5785e4df95d7400ce1748e89114f23e22fb2a2b32
+MD5sum: b30208f2bd11eaa9cf9f7fab087e4f90
+SHA1: 15db49aacf9424479d3def96d39dff51da813b5f
+SHA256: c52fe4abfd14d383b5c73548d3ec0013cd534801631a75c2a3f9fe31e7578821
 Section: Wallpaper
 Description: Apple Live Wallpapers with the Reversal effect for iPhone 6 and below!
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -81,9 +81,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.applereversal6_1.0_iphoneos-arm.deb
 Size: 2329052
-MD5sum: 3325e028b8f823104d48703ded4327a5
-SHA1: c005e00567a1ef93e64d69ecbee8749e1d60dd1e
-SHA256: 3468c6b63a2df565b998d46c1b3d5bbef0ba7559bff3d1d107cbb47ce3dc9487
+MD5sum: 185acb78cd62ec9bdd12df7626bf63f5
+SHA1: b91a0125649e320d564a3dcaa4de15e0aeb34ed2
+SHA256: 180a610707af67c8cfafb721ae9d13e6963acaf9f8d40a9e8f3f8925ca94ccef
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: Apple Live Wallpapers with the Reversal effect for iPhone 6+!
@@ -97,9 +97,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.applereversal6part2_1.0_iphoneos-arm.deb
 Size: 3253262
-MD5sum: a2ee28a1d2383634ccc37092fa057fec
-SHA1: 535efdf1d63fc0885e9cdeb8639f856c4bddb6ad
-SHA256: b0915b4db4e9f787cb4f556071920b2049ed1e542e7c8c4b1693a89c47023f1d
+MD5sum: 8dabc1294024c3faa4ff443a7137a7c0
+SHA1: 3263c617aaa41cbea71704b387b0689e13b68da6
+SHA256: 3ebb4a8ceac4fef892a9dd5e61ea1c89bc369dfe386be0ae40d380683f263296
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: Apple Live Wallpapers with the Reversal effect for iPhone 6+!
@@ -113,9 +113,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@icloud.com>
 Filename: ./debs/com.shaundegr8.cataracsrm_1.3.2-1_iphoneos-arm.deb
 Size: 101846
-MD5sum: 141b382e1944065d52f4932b9364ff7c
-SHA1: 88c04f01a91073afb590d21ecd8dfc15233a6579
-SHA256: 0815c874c6bb223882ace00af2a64599b9fe4a840b1569c224e0f29a5f413d3d
+MD5sum: 681bf658f8ab43e6e1204509fb3eb6a4
+SHA1: ee87088e596958c71ba680837136b3d4f744b56a
+SHA256: 1487b790a7c93137bfbea9cb259d98d3a3c00c91dae5900536165860e61b35e0
 Section: LS Widgets
 Homepage: http://shaundegr8.github.io
 Description: A modified version of the LS Widget Cataracs!
@@ -129,9 +129,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.gofyourself_1.1_iphoneos-arm.deb
 Size: 334868
-MD5sum: 0d8cc331aca616955d4c402ba3949af7
-SHA1: a7b849c8125e0a04b88527ad15099f77b5d604cc
-SHA256: a825c1e3e7d0c782e1f25895fe0bd75396d978727bc21f1a11742a393b479424
+MD5sum: 5ae39902f6fd92e20a1ac738a35d830d
+SHA1: 714e2100e4b18b38dc367fcfca0988770de5e078
+SHA256: 442c28e59a4e243fe5708a3b5f21afcdc716edd81eba4f804cdba9f115252731
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: A live wallpaper for iPhone 6 Plus and 6s Plus Users!
@@ -145,9 +145,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.gofyourself2_1.1_iphoneos-arm.deb
 Size: 661814
-MD5sum: 558d69cb1bc01b3455e68bcad0eab8f3
-SHA1: 879588e20174fc44bf113d191616c128d48d1d86
-SHA256: 9081c2adbf5e125a22edc08c8050ea08360ee0ba5b11d17d2d93e175a985aa98
+MD5sum: 8634d87c0458ce17c0a2895bcd8f9d26
+SHA1: e42bac9f2e0d70a6083915b01d1a4c13a0357a42
+SHA256: eac70e9b61aa30f6ef338bd3eef71b1cbbe988299f543554a107f5ac0fb60143
 Section: Wallpaper
 Homepage: http://shaundegr8.github.io
 Description: A live wallpaper for iPhone 6 Plus and 6s Plus Users!
@@ -161,9 +161,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.gotham8_2.0_iphoneos-arm.deb
 Size: 15533922
-MD5sum: 9ddf92bf7ce7426540e7401a158fb56f
-SHA1: 55e9e6019e748111ea7467938adfa2d99846b1fc
-SHA256: e3f01c625cef730d0e344be6a273ef425d0fd77cefb8cc9177cb7687ed8758a9
+MD5sum: ce75cf02f8af6b49d4b5bddbad656e6c
+SHA1: 85e6be115ae1c88698f2a7f91019dc4337797f8e
+SHA256: d2ca606f2f65f60fb1395f64f7b0c4a904f38cb09de563d83d7e57cb1db83078
 Section: Themes (SpringBoard)
 Description: Revamped Gotham theme w/ custom icons by me!
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -176,9 +176,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.jarvisforsiri_1.0_iphoneos-arm.deb
 Size: 1350802
-MD5sum: 74b99f86dfcfacda33ed4b742ae20c88
-SHA1: 83d62c941e78221e46385b261772a8ece01056bd
-SHA256: 27348e64525c3e57d7f23b8943c903023eaa3d8210d078067cfbbeb50fb99cf1
+MD5sum: 21c70a6724118d3f39ab8ffec82d61e0
+SHA1: e608dda56f5f98e8485fe61f68f97f56f069e60f
+SHA256: ec47eee3baabbde1c13d210554c65e2905e37b4b0efd90036de6962c2aab64d2
 Section: Themes (UISounds)
 Homepage: http://shaundegr8.github.io
 Description: Change Siri start up sounds into J.A.R.V.I.S! Change to Male UK Siri for best effect!
@@ -190,11 +190,11 @@ Package: com.shaundegr8.livewallpaperpack1
 Version: 0.5-beta
 Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
-Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.5-beta_iphoneos-arm 2.deb
+Filename: ./debs/com.shaundegr8.livewallpaperpack1_0.5-beta_iphoneos-arm.deb
 Size: 734226
-MD5sum: fcc0540cc337fbee04542eca08c373ca
-SHA1: 0f3d4c69a8f1e4d8f40999137f49ebadc8b9752d
-SHA256: f11fd21983c1ff4dd99e657065d0fa43e2157b00286bcd7e5d2dd2ee382001d6
+MD5sum: 814c1f192cb55ce2af0c056bc054d387
+SHA1: d47774926cb782bb8f4f4e8db8644d667307ff91
+SHA256: a0ccd7dba1851628b700c44add38a5071c88b859beab79c81e92e6e92bc31280
 Section: Wallpaper
 Description: Assortment of Live Wallpapers for iPhone 6s and below! Tested on 6! All wallpapers have a reversal effect! NO NEED TO REBOOT OR RESPRING JUST INSTALL NOW!        Changelog: Fixed Black Screen at end of Green Drop wallpaper :D
 Author: shaundegr8 <shaundegr8@gmail.com>
@@ -206,9 +206,9 @@ Architecture: iphoneos-arm
 Maintainer: shaundegr8 <shaundegr8@gmail.com>
 Filename: ./debs/com.shaundegr8.originalsirisounds_1.0_iphoneos-arm.deb
 Size: 93844
-MD5sum: 8f17fb1dc89d56e03b73fd8d2c2ada55
-SHA1: f6c2472abecdcaf116ca25397fa33118dcabf505
-SHA256: 2726f74d5bc7bda60248bbe8647b987a231a7546a4df85881add537d31764f52
+MD5sum: 755d27a37356160ec291002ddcdc1619
+SHA1: b66218cacb233d7fddb33e0790281c0bfdad8ce5
+SHA256: 07abe224c54df65f2851f4374c5016322cd4a401c0712d7011506127ffb8a17f
 Section: Themes (UISounds)
 Description: The Original Sounds for Siri! You need to install this after the removal of JarvisForSiri!
 Author: shaundegr8 <shaundegr8@gmail.com>

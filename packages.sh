@@ -12,5 +12,5 @@ dpkg-deb -bZgzip projects/AppleReversal6Part2 debs
 dpkg-deb -bZgzip projects/GoFYourself debs
 dpkg-deb -bZgzip projects/GoFYourselfReverse debs
 dpkg-deb -bZgzip projects/SteveMach debs
-dpkg-deb -bZgzip projects/CataracsReMastered debs
+dpkg-deb -bZgzip projects/CataracsRe-Mastered debs
 # dpkg-deb -bZgzip projects/<Project Name> <Output Folder>
