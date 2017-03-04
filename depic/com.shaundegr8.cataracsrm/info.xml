@@ -9,31 +9,31 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>InfoStats</package>
 		<package>LockHTML</package>
-		<package>infoStats</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This package contains a modified version of cataracs with a new blur.js and custom css file!</description>
-		<description>This in no way is my tweak or widget!! All credit goes to the original creator for putting in the hardwork!</description>
-		<description>I have just modified this widget to my needs and have uploaded for easy access!</description>
+		<description>A modified version of Cataracs with a new blur file and css file!</description>
+		<description>This is in no way my widget all credit goes to the original creator!!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is how it looks!!</description>
+			<description>This is what it can look like!!</description>
 			<image>Cataracsrm.png</image>
 		</screenshot>
 		<screenshot>
-			<description>Another look you can achieve!</description>
-			<image>cataracsRM1.PNG</image>
+			<description>Here's another example!!</description>
+			<image>cataracsRM.PNG</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
+		<change>Initial release</change>
 		<change>Modified Release by shaundegr8</change>
-		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/iosthemes</name>
-			<url>https://www.reddit.com/r/iosthemes</url>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iOSThemes</url>
 		</link>
 	</links>
 </package>

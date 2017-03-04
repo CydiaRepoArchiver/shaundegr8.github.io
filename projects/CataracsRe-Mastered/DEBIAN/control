@@ -5,6 +5,7 @@ Version: 1.3.2-1
 Architecture: iphoneos-arm
 Description: A modified version of the LS Widget Cataracs!
 Depiction: http://shaundegr8.github.io/depic/?p=com.shaundegr8.cataracsrm
+Homepage: http://shaundegr8.github.io
 Maintainer: shaundegr8 <shaundegr8@icloud.com>
 Author: shaundegr8 <shaundegr8@icloud.com>
 Section: Themes (LockScreen)
